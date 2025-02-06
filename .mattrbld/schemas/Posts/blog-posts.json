@@ -11,7 +11,7 @@
         "wrapping": true,
         "multiline": false
       },
-      "tab": "Untitled Tab",
+      "tab": "Tab 1",
       "validation": {
         "enforceMinMax": true,
         "max": null,
@@ -81,7 +81,7 @@
           "allowInternal"
         ]
       },
-      "tab": "Untitled Tab",
+      "tab": "Tab 1",
       "validation": {
         "enforceMinMax": true,
         "max": null,
@@ -111,7 +111,7 @@
         "removable": true,
         "simple": false
       },
-      "tab": "Untitled Tab",
+      "tab": "Tab 1",
       "validation": {
         "max": null,
         "required": false,
@@ -137,7 +137,7 @@
         "allowUnsuggested": true,
         "autocompleteModel": []
       },
-      "tab": "Untitled Tab",
+      "tab": "Tab 1",
       "validation": {
         "max": null,
         "min": null,
@@ -155,7 +155,7 @@
   ],
   "tabs": [
     {
-      "label": "Untitled Tab",
+      "label": "Tab 1",
       "groupAs": null
     }
   ]

@@ -5,9 +5,6 @@
   "name": "matterbuild",
   "sidebar": [
     {
-      "label": "The sidebar has not yet been configured for this project"
-    },
-    {
       "icon": "wrench-and-driver",
       "label": "Configure now",
       "target": {
@@ -45,6 +42,9 @@
       },
       "onlyPrivileged": true,
       "protected": true
+    },
+    {
+      "separator": true
     }
   ],
   "slugifyOptions": null,

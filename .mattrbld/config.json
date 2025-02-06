@@ -65,6 +65,16 @@
         }
       },
       "label": "Coll1"
+    },
+    {
+      "separator": true,
+      "target": {
+        "name": "Project.Collection",
+        "params": {
+          "path": "/.mattrbld/collections/mdpost.json"
+        }
+      },
+      "label": "mdpost"
     }
   ],
   "slugifyOptions": {

@@ -1,0 +1,9 @@
+{
+  "content": "<p>Bonjour</p>",
+  "___mb_schema": "/.mattrbld/schemas/blog-posts.json",
+  "titre": "Terst",
+  "image": "/assets/pierre.webp",
+  "tags": [
+    "tage"
+  ]
+}

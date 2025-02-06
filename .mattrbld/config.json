@@ -45,9 +45,32 @@
     },
     {
       "separator": true
+    },
+    {
+      "icon": null,
+      "label": "Posts",
+      "target": {
+        "name": "Project.Collection",
+        "params": {
+          "path": "/.mattrbld/collections/c2.json"
+        }
+      }
+    },
+    {
+      "separator": true,
+      "target": {
+        "name": "Project.Collection",
+        "params": {
+          "path": "/.mattrbld/collections/Collection1.json"
+        }
+      },
+      "label": "Coll1"
     }
   ],
-  "slugifyOptions": null,
+  "slugifyOptions": {
+    "lowercase": true,
+    "decamelize": true
+  },
   "customRoles": [],
   "draftsDir": null,
   "previewUrl": null,
@@ -55,8 +78,8 @@
   "media": {
     "advanced": false,
     "customFields": null,
-    "dir": null,
-    "maxSize": null,
+    "dir": "/assets",
+    "maxSize": 5,
     "outputPath": null,
     "permissions": {
       "everybody": [

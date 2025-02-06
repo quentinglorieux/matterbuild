@@ -5,9 +5,9 @@
   "disablePreview": false,
   "draftByDefault": false,
   "schemas": [
-    "/.mattrbld/schemas/blog-posts.json"
+    "/.mattrbld/schemas/sc1.json"
   ],
-  "linkable": false,
+  "linkable": true,
   "maxSize": null,
   "permissions": {
     "everybody": [
